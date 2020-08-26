@@ -25,12 +25,12 @@ Your opponent says "HIT" or "MISS" and he has to tell you, if the ship is sunk.
   	|O|O|    
   	|O|O|
   
-  	  |O|  
-    |O|O|O|  
-      |O|
+  	|O|  
+  |O|O|O|  
+    |O|
   
   	|O|O|    
-  	  |O|O|
+ &nbsp;&nbsp 	  |O|O|
  
 3. You can play against computer or let play two computers. 
 (Computer needs 44 moves to sink all opponent's ships approximately - statistics and some algorithms used).   
