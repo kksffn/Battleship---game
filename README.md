@@ -22,14 +22,14 @@ Your opponent says "HIT" or "MISS" and he has to tell you, if the ship is sunk.
   	|O|    
   	|O|O|
   
-  	|O|O|
+  	|O|O|    
   	|O|O|
   
   	  |O|
-  	|O|O|O|
+    |O|O|O|    
   	  |O|
   
-  	|O|O|
+  	|O|O|    
   	  |O|O|
  
 3. You can play against computer or let play two computers. 
