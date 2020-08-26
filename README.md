@@ -11,8 +11,7 @@ Your opponent says "HIT" or "MISS" and he has to tell you, if the ship is sunk.
 1. OOP
 2. The ships (You can rotate or upend them.) have to be set not to touch each other(nor in the corner).:
 
-  	|O|
-    
+  	|O|    
   	|O|
   
   	|O|
